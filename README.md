@@ -1,5 +1,5 @@
 <h1>Hi! My name is Rodrigo Santos and I'm a software developer</h1>
-Currently, I work at FS DevApps- @fsdevapps -as freelancing programmer
+Currently, I work at FS DevApps as freelancing programmer
 <p>
   <b>Get in touch with me!</b>
   <hr>
