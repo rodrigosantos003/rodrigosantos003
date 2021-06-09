@@ -3,7 +3,7 @@ Currently, I work at FS DevApps as freelancing programmer
 <p>
   <b>Get in touch with me!</b>
   <hr>
-  📍Website: https://rodrigo-santos.vercel.app <br>
+  📍Website: https://rodrigosantosdeveloper.wordpress.com/ <br>
   📍Instagram: https://instagram.com/r.santos_03 <br>
   📍Facebook: https://facebook.com/r.santos03 <br>
   📍LinkedIn: https://linkedin.com/rodrigo-santos-2003
