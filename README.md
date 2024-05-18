@@ -12,7 +12,4 @@ I'm a software developer with 2 years of experience.<br>Currently, Im studying S
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosantos003&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosantos003&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=rodrigosantos003&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
