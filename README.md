@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with 2 years of experience.<br>Currently, Im studying Software Engineering at Polytechnic Instititute of Setúbal
+I'm a software developer with 5 years of experience.<br>Currently, Im studying Software Engineering at Polytechnic Instititute of Setúbal
 
 
 ## 🌐 Socials:
