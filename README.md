@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with 3+ years of experience.<br>Currently, I'm working as Software Engineer at [Dev2Grow](dev2grow.com)
+I'm a software developer with 3+ years of experience.<br>Currently, I'm working as Software Engineer at [Dev2Grow](https://dev2grow.com)
 
 
 ## 🌐 Socials:
